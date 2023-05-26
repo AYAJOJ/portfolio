@@ -1329,7 +1329,7 @@ pre code {
 .table-primary,
 .table-primary>td,
 .table-primary>th {
-    background-color: #b8daff
+    background-color: #F0F8FF
 }
 
 .table-hover .table-primary:hover {
@@ -1359,11 +1359,11 @@ pre code {
 .table-success,
 .table-success>td,
 .table-success>th {
-    background-color: #c3e6cb
+    background-color: #F0F8FF
 }
 
 .table-hover .table-success:hover {
-    background-color: #b1dfbb
+    background-color: #F0F8FF
 }
 
 .table-hover .table-success:hover>td,
@@ -1970,7 +1970,7 @@ fieldset[disabled] a.btn {
 
 .btn-primary.focus,
 .btn-primary:focus {
-    box-shadow: 0 0 0 3px rgba(0, 123, 255, .5)
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.896)
 }
 
 .btn-primary.disabled,
@@ -2269,10 +2269,10 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-success {
-    color: #28a745;
+    color: #2d2a54;
     background-color: transparent;
     background-image: none;
-    border-color: #28a745
+    border-color: #5728a7
 }
 
 .btn-outline-success:hover {
@@ -3558,23 +3558,23 @@ tbody.collapse.show {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: rgba(0, 0, 0, .5)
+    color: rgba(60, 52, 52, 0.5)
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: rgba(0, 0, 0, .7)
+    color: rgba(59, 48, 48, 0.7)
 }
 
 .navbar-light .navbar-nav .nav-link.disabled {
-    color: rgba(0, 0, 0, .3)
+    color: rgba(53, 40, 40, 0.3)
 }
 
 .navbar-light .navbar-nav .active>.nav-link,
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show>.nav-link {
-    color: rgba(0, 0, 0, .9)
+    color: rgba(0, 0, 0, 0.9)
 }
 
 .navbar-light .navbar-toggler {
@@ -3600,23 +3600,23 @@ tbody.collapse.show {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgba(255, 255, 255, .5)
+    color: rgba(198, 197, 197, 0.5)
 }
 
 .navbar-dark .navbar-nav .nav-link:focus,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: rgba(255, 255, 255, .75)
+    color: rgba(204, 103, 103, 0.75)
 }
 
 .navbar-dark .navbar-nav .nav-link.disabled {
-    color: rgba(255, 255, 255, .25)
+    color: rgba(98, 98, 98, 0.25)
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-    color: #fff
+    color: #fffefe
 }
 
 .navbar-dark .navbar-toggler {
@@ -5227,34 +5227,34 @@ button.close {
 }
 
 .bg-primary {
-    background-color: #007bff!important
+    background-color: #F0F8FF!important
 }
 
 a.bg-primary:focus,
 a.bg-primary:hover {
-    background-color: #0062cc!important
+    background-color: #F0F8FF!important
 }
 
 .bg-secondary {
-    background-color: #868e96!important
+    background-color: #F0F8FF!important
 }
 
 a.bg-secondary:focus,
 a.bg-secondary:hover {
-    background-color: #6c757d!important
+    background-color: #F0F8FF!important
 }
 
 .bg-success {
-    background-color: #28a745!important
+    background-color: #F0F8FF!important
 }
 
 a.bg-success:focus,
 a.bg-success:hover {
-    background-color: #1e7e34!important
+    background-color: #F0F8FF!important
 }
 
 .bg-info {
-    background-color: #17a2b8!important
+    background-color: #F0F8FF!important
 }
 
 a.bg-info:focus,
