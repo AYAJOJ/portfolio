@@ -481,13 +481,13 @@
   background-color: #FFFFFF; }
 
 .slider.slider-primary .noUi-connect, .slider.slider-primary.noUi-connect {
-  background-color: #378C3F; }
+  background-color: #378c40; }
 
 .slider.slider-primary.noUi-target {
-  background-color: rgba(55, 140, 63, 0.4); }
+  background-color: rgba(55, 140, 64, 0.37); }
 
 .slider.slider-primary .noUi-handle {
-  background-color: #378C3F; }
+  background-color: #378c40; }
 
 .slider.slider-info .noUi-connect, .slider.slider-info.noUi-connect {
   background-color: #2CA8FF; }
@@ -545,15 +545,15 @@
   .datepicker.dropdown-menu:before {
     display: none; }
   .datepicker.datepicker-primary {
-    background-color: #378C3F; }
+    background-color: #378c40; }
     .datepicker.datepicker-primary th,
     .datepicker.datepicker-primary .day div,
     .datepicker.datepicker-primary table tr td span {
       color: #FFFFFF; }
     .datepicker.datepicker-primary:after {
-      border-bottom-color: #378C3F; }
+      border-bottom-color: #378c40; }
     .datepicker.datepicker-primary.datepicker-orient-top:after {
-      border-top-color: #378C3F; }
+      border-top-color: #378c40; }
     .datepicker.datepicker-primary .dow {
       color: rgba(255, 255, 255, 0.8); }
     .datepicker.datepicker-primary table tr td.old div,
@@ -574,7 +574,7 @@
     .datepicker.datepicker-primary table tr td.active.disabled div,
     .datepicker.datepicker-primary table tr td.active.disabled:hover div {
       background-color: #FFFFFF;
-      color: #378C3F; }
+      color: #378c40; }
     .datepicker.datepicker-primary table tr td.day:hover div,
     .datepicker.datepicker-primary table tr td.day.focused div {
       background: rgba(255, 255, 255, 0.2); }
@@ -639,7 +639,7 @@
     .datepicker.datepicker-primary table tr td span.active:hover[disabled],
     .datepicker.datepicker-primary table tr td span.active.disabled[disabled],
     .datepicker.datepicker-primary table tr td span.active.disabled:hover[disabled] {
-      color: #378C3F; }
+      color: #378c40; }
 
 .datepicker-inline {
   width: 220px; }
@@ -872,7 +872,7 @@
 .datepicker table tr td.selected.disabled,
 .datepicker table tr td.selected.disabled:hover {
   background-color: #9e9e9e;
-  background-image: linear-gradient(to bottom, #b3b3b3, #808080);
+  background-image: linear-gradient(to bottom, #acacac, #808080);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b3b3b3', endColorstr='#808080', GradientType=0);
   border-color: #808080 #808080 #595959;
@@ -1254,13 +1254,13 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: 	#A52A2A;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #40a249;
+    background-color: #a24d404a;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -1272,15 +1272,15 @@
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:active,
   fieldset[disabled] .btn-primary.active {
-    background-color: #378C3F;
-    border-color: #378C3F; }
+    background-color: #378c40;
+    border-color: #378c40; }
   .btn-primary.btn-simple {
-    color: #378C3F;
-    border-color: #378C3F; }
+    color: #378c40;
+    border-color: #378c40; }
     .btn-primary.btn-simple:hover, .btn-primary.btn-simple:focus, .btn-primary.btn-simple:active {
       background-color: transparent;
-      color: #40a249;
-      border-color: #40a249;
+      color: #40a24a;
+      border-color: #40a24a;
       box-shadow: none; }
   .btn-primary.btn-link {
     color: #378C3F; }
@@ -2038,9 +2038,9 @@ textarea.form-control {
   .progress-container.progress-neutral .progress-badge {
     color: #FFFFFF; }
   .progress-container.progress-primary .progress {
-    background: rgba(55, 140, 63, 0.4); }
+    background: rgba(55, 140, 64, 0.104); }
   .progress-container.progress-primary .progress-bar {
-    background: #378C3F; }
+    background: #9c53434f; }
   .progress-container.progress-primary .progress-value,
   .progress-container.progress-primary .progress-badge {
     color: #378C3F; }
@@ -2402,7 +2402,7 @@ body {
     color: #378C3F; }
 
 .nav-pills.nav-pills-primary .nav-item .nav-link.active, .nav-pills.nav-pills-primary .nav-item .nav-link.active:focus, .nav-pills.nav-pills-primary .nav-item .nav-link.active:hover {
-  background-color: #378C3F; }
+  background-color: #bc6c4f7c; }
 
 .nav-pills.nav-pills-info .nav-item .nav-link.active, .nav-pills.nav-pills-info .nav-item .nav-link.active:focus, .nav-pills.nav-pills-info .nav-item .nav-link.active:hover {
   background-color: #2CA8FF; }
@@ -2598,7 +2598,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #378C3F !important; }
+  background-color: #c4695eaf !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -4137,7 +4137,7 @@ Created using IcoMoon - icomoon.io
       /* For Safari 5.1 to 6.0 */
       /* For Opera 11.1 to 12.0 */
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#378C3F 0%, #000 80%);
+      background: linear-gradient(#8B0000 0%, #000 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
@@ -5153,7 +5153,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgba(255, 0, 0, 0.3);
   border-radius: 50%;
   height: 180px;
   width: 180px;
